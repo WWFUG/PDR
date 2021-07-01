@@ -1,5 +1,0 @@
-read rtl vending.v
-blast ntk
-satv pdr -o 0
-usage
-quit -f
